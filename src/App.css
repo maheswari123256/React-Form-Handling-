@@ -3,7 +3,7 @@ body{
   padding: 0px;
   box-sizing: border-box;
   background:linear-gradient(136deg,rgb(77, 0, 128),rgb(0, 255, 221));
-  max-height: 100vh;
+  max-height: 130vh;
 }
 .container {
   width: 300px;
